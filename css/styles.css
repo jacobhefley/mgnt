@@ -6,6 +6,8 @@ span {
 
 div.intro {
   color: green;
+  width: 300px;
+  float: left;
 }
 
 h2.intro {
@@ -19,4 +21,20 @@ h2.intro {
 
 img.intro {
   float: right;
+  width: 20;
+}
+
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-image: url(../img/mgmt1.jpg);
+  margin:20px 30px 20px 20px;
+  padding: 20px 20px 20px 20px;
+}
+
+.sideimgs {
+  margin:auto;
+  height: 50%;
+  max-width: 50%;
 }

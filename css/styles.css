@@ -1,0 +1,22 @@
+
+span {
+  font-style: italic;
+  color: black;
+}
+
+div.intro {
+  color: green;
+}
+
+h2.intro {
+  color: blue;
+}
+
+.intro {
+  color: red;
+}
+
+
+img.intro {
+  float: right;
+}
